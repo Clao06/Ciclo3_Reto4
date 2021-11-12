@@ -3,7 +3,7 @@
 var dirurl = "http://129.151.99.17:8080/api/"
 // Maquina local
 
-//var dirurl ="http://localhost:8080/api/"
+//var dirurl ="http://localhost:8080/api/".
 var estado =""
 
 // funciones de Categoría*****************************************************************************
